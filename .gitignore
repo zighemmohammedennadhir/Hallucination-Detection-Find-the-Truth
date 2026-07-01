@@ -16,3 +16,9 @@ predictions/
 .idea/
 .vscode/
 .DS_Store
+
+# Local-only project docs (not published)
+docs/Islamic_Hallucination_Detection_Project_Plan.docx
+
+# Local-only project docs (not published)
+docs/Islamic_Hallucination_Detection_Project_Plan.docx
